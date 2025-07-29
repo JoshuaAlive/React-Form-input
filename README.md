@@ -1,1 +1,1 @@
-# React-Form-input
+This project is based on user input, where the user types their necessary credentials (as provided on the screen), and the output is displayed at the bottom of the screen. Note this project is not connected to a databas/backend.
